@@ -84,7 +84,7 @@ GEM
     autoprefixer-rails (10.4.19.0)
       execjs (~> 2)
     base64 (0.2.0)
-    bcrypt (3.1.18)
+    bcrypt (3.1.20)
     benchmark (0.4.0)
     bigdecimal (3.1.9)
     bindex (0.8.1)
@@ -396,7 +396,7 @@ PLATFORMS
 
 DEPENDENCIES
   active_storage_validations (= 0.9.8)
-  bcrypt (= 3.1.18)
+  bcrypt (= 3.1.20)
   bootsnap
   bootstrap-sass (= 3.4.1)
   bootstrap-will_paginate (= 1.0.0)

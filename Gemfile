@@ -5,7 +5,7 @@ gem "rails", "~> 7.2.2", ">= 7.2.2.1"
 gem "image_processing",    "1.12.2"
 gem "active_storage_validations", "0.9.8"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
-gem "bcrypt",          "3.1.18"
+gem "bcrypt",          "3.1.20"
 
 gem "faker",           "2.21.0"
 gem "will_paginate",           "3.3.1"
